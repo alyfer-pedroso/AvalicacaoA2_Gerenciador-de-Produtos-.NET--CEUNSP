@@ -1,0 +1,14 @@
+C:\Users\Alyfer\Documents\C# FACULDADE\Alyfer_A2\bin\Debug\net8.0\Alyfer_A2.exe
+C:\Users\Alyfer\Documents\C# FACULDADE\Alyfer_A2\bin\Debug\net8.0\Alyfer_A2.deps.json
+C:\Users\Alyfer\Documents\C# FACULDADE\Alyfer_A2\bin\Debug\net8.0\Alyfer_A2.runtimeconfig.json
+C:\Users\Alyfer\Documents\C# FACULDADE\Alyfer_A2\bin\Debug\net8.0\Alyfer_A2.dll
+C:\Users\Alyfer\Documents\C# FACULDADE\Alyfer_A2\bin\Debug\net8.0\Alyfer_A2.pdb
+C:\Users\Alyfer\Documents\C# FACULDADE\Alyfer_A2\obj\Debug\net8.0\Alyfer_A2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alyfer\Documents\C# FACULDADE\Alyfer_A2\obj\Debug\net8.0\Alyfer_A2.AssemblyInfoInputs.cache
+C:\Users\Alyfer\Documents\C# FACULDADE\Alyfer_A2\obj\Debug\net8.0\Alyfer_A2.AssemblyInfo.cs
+C:\Users\Alyfer\Documents\C# FACULDADE\Alyfer_A2\obj\Debug\net8.0\Alyfer_A2.csproj.CoreCompileInputs.cache
+C:\Users\Alyfer\Documents\C# FACULDADE\Alyfer_A2\obj\Debug\net8.0\Alyfer_A2.dll
+C:\Users\Alyfer\Documents\C# FACULDADE\Alyfer_A2\obj\Debug\net8.0\refint\Alyfer_A2.dll
+C:\Users\Alyfer\Documents\C# FACULDADE\Alyfer_A2\obj\Debug\net8.0\Alyfer_A2.pdb
+C:\Users\Alyfer\Documents\C# FACULDADE\Alyfer_A2\obj\Debug\net8.0\Alyfer_A2.genruntimeconfig.cache
+C:\Users\Alyfer\Documents\C# FACULDADE\Alyfer_A2\obj\Debug\net8.0\ref\Alyfer_A2.dll
